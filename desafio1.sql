@@ -60,7 +60,7 @@ CREATE TABLE song_history (
 
 INSERT INTO plans(plan, price)
 VALUES
-('gratuito', 0),
+('gratuito', 0.00),
 ('universitário', 5.99),
 ('familiar', 7.99);
 
