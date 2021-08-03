@@ -11,9 +11,3 @@ CREATE VIEW estatisticas_musicais AS
                 SpotifyClone.albums) AS albuns
     FROM
         SpotifyClone.songs;
-    
-    
-SELECT 
-    *
-FROM
-    estatisticas_musicais;
